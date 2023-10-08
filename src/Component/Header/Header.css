@@ -1,0 +1,12 @@
+nav a{
+    margin-right: 2rem;
+    line-height:0.2rem;
+}
+
+nav a.active{
+    /* text-decoration: underline; */
+    color:brown; 
+    background-color: darkgray;
+    padding: 0.2rem 0.7rem;
+    border-radius: 0.2rem;
+}
